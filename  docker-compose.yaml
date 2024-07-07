@@ -1,0 +1,56 @@
+version: '3.8'
+
+services:
+  nginx:
+    image: jc21/nginx-proxy-manager:latest
+    container_name: nginx
+    restart: unless-stopped
+    ports:
+      - "80:80"       # Public HTTP Port
+      - "443:443"     # Public HTTPS Port
+      - "8090:81"     # Admin Web Port for Nginx Proxy Manager
+    volumes:
+      - ./data:/data
+      - ./nginx/nginx.conf:/data/nginx/custom/http_top.conf  # Custom Nginx configuration
+      - ./letsencrypt:/etc/letsencrypt  # Let's Encrypt SSL certificates storage
+    depends_on:
+      - frontend
+      - backend
+      - adminer
+    networks:
+      - mynet
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: frontend
+    restart: unless-stopped
+    ports:
+      - "5173:5173"   # Adjust as per your frontend port
+    networks:
+      - mynet
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"   # Adjust as per your backend port
+    networks:
+      - mynet
+
+  adminer:
+    image: adminer
+    container_name: adminer
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    networks:
+      - mynet
+
+networks:
+  mynet:
+    driver: bridge
