@@ -11,7 +11,7 @@ services:
       - "8090:81"     # Admin Web Port for Nginx Proxy Manager
     volumes:
       - ./data:/data
-      - ./nginx/nginx.conf:/data/nginx/custom/http_top.conf  # Custom Nginx configuration
+      - ./nginx/nginx-prod.conf:/data/nginx/custom/http_top.conf  # Custom Nginx configuration
       - ./letsencrypt:/etc/letsencrypt  # Let's Encrypt SSL certificates storage
     depends_on:
       - frontend

@@ -1,12 +1,48 @@
-FROM python:3.9-slim
+# FROM python:3.9-slim
+# WORKDIR /app
+# COPY requirements.txt .
+# RUN pip install --no-cache-dir -r requirements.txt
+# COPY . .
+# ENV DATABASE_URL=$postgresql://postgres:password@db:5432/mydataba
+# EXPOSE 8000
+# CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+# Use the official Python image from the Docker Hub
+FROM python:3.12-slim
 
+# Set the working directory
 WORKDIR /app
 
-COPY requirements.txt .
-RUN pip install --no-cache-dir -r requirements.txt
+# Install Poetry using the recommended installation script
+RUN apt-get update && apt-get install -y curl \
+    && curl -sSL https://install.python-poetry.org | python3 - \
+    && apt-get clean \
+    curl \
+    bash \             
+    build-essential  
 
-COPY . .
+# Add Poetry to PATH
+ENV PATH="/root/.local/bin:$PATH"
+
+# Copy the requirements file
+COPY pyproject.toml poetry.lock /app/
+
+# Install dependencies (installs all dependencies including dev dependencies)
+RUN poetry install --no-interaction --no-ansi
+
+# Copy the rest of the application code
+COPY . /app
+
+# Ensure the prestart.sh script is executable
+RUN chmod +x ./prestart.sh
+
+# Set the PYTHONPATH environment variable
+ENV PYTHONPATH=/app
+
 # Expose the port the app runs on
 EXPOSE 8000
 
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--reload"]
+# Run the prestart script 
+ENTRYPOINT ["poetry", "run", "bash", "./prestart.sh"]
+
+# Default command to run the application
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
